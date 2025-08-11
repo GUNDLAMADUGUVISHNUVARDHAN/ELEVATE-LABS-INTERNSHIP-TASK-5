@@ -42,3 +42,6 @@ Insights & Interpretation:
 Derive actionable insights based on the analysis goals.
 
 Summarize key findings in reports or presentations.
+
+<img width="1263" height="746" alt="image" src="https://github.com/user-attachments/assets/443b0137-0dc6-4a6a-a21f-b68e7bf0223e" />
+
